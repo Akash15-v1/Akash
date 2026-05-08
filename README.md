@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Akash</h1>
-<h3 align="center">Hands on Backend dev and Sas Builder</h3>
+<h3 align="center">I am  Backend dev with  Builder mind</h3>
 
 ```elixir
 I like building  products that save time, money and help make more money for users or orgs
